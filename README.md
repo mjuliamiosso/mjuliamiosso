@@ -1,6 +1,6 @@
 <div align="center">
   <img height="300" src="./img/header-img.png"  />
-</div>
+</div>"
 
 ###
 
@@ -28,8 +28,8 @@
 <h3 align="left">👩‍💻  Sobre mim</h3>
 
 ###
-
-<p align="left">Eu sou Maria Júlia, dev full-stack, criativa e atualmente estudando na Escola de Tecnologia DNC.<br><br>- 📚 Atualmente estou aprendendo React<br>- 📫 Contate-me mjuliamiosso@gmail.com<br>- ⚡ No meu tempo livre gosto de desenhar, tocar violão e jogar vídeo game :)</p>
+"
+<p align="left">Eu sou Maria Júlia, dev full-stack e atualmente estudando na Escola de Tecnologia DNC.<br><br>- 📚 Atualmente estou aprendendo React e SASS<br>- 📫 Contate-me mjuliamiosso@gmail.com<br>- ⚡ No meu tempo livre gosto de desenhar, tocar violão e jogar</p>
 
 ###
 
@@ -44,11 +44,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
 </div>
 
 ###
