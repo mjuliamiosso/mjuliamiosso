@@ -29,7 +29,7 @@
 
 ###
 "
-<p align="left">Eu sou Maria Júlia, dev full-stack e atualmente estudando na Escola de Tecnologia DNC.<br><br>- 📚 Atualmente estou aprendendo React e SASS<br>- 📫 Contate-me mjuliamiosso@gmail.com<br>- ⚡ No meu tempo livre gosto de desenhar, tocar violão e jogar</p>
+<p align="left">Eu sou Maria Júlia, dev full-stack e atualmente estudando na Escola de Tecnologia DNC.<br><br>- 📚 Atualmente estou aprendendo sobre BackEnd e Banco de Dados<br>- 📫 Contate-me mjuliamiosso@gmail.com<br>- ⚡ No meu tempo livre gosto de desenhar, tocar violão e jogar</p>
 
 ###
 
