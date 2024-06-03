@@ -1,6 +1,6 @@
 <div align="center">
   <img height="400" src="./img/image.png"  />
-</div>"
+</div>
 
 ###
 
@@ -28,8 +28,8 @@
 <h3 align="left">👩‍💻  Sobre mim</h3>
 
 ###
-"
-<p align="left">Eu sou Maria Júlia, dev full-stack e atualmente estudando na Escola de Tecnologia DNC.<br><br>- 📚 Atualmente estou aprendendo sobre BackEnd e Banco de Dados<br>- 📫 Contate-me mjuliamiosso@gmail.com<br>- ⚡ No meu tempo livre gosto de desenhar, tocar violão e jogar</p>
+
+<p align="left">Eu sou Maria Júlia, sou uma desenvolvedora Front End apaixonada por UI/UX e design. Concluí o curso FullStack na Escola de Tecnologia DNC. Tenho habilidades em criar interfaces intuitivas e esteticamente agradáveis, utilizando meu conhecimento em HTML, CSS e JavaScript.<br><br>- 📚 Atualmente estou desenvolvendo projetos pessoais para adicionar ao meu portfólio<br>- 📫 Contate-me mjuliamiosso@gmail.com<br>- ⚡ No meu tempo livre gosto de desenhar, tocar violão e jogar</p>
 
 ###
 
@@ -49,6 +49,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
 ###
