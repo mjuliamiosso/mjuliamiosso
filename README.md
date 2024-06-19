@@ -11,12 +11,13 @@
   </a>
 </div>
 
+###
+
 <h3 align="left">👩‍💻  Sobre mim</h3>
 
 ###
-<div align="left">
-  <p align="left">Eu sou Maria Júlia, sou uma desenvolvedora Front End apaixonada por UI/UX e design. Concluí o curso FullStack na Escola de Tecnologia DNC. Tenho habilidades em criar interfaces intuitivas e esteticamente agradáveis, utilizando meu conhecimento em HTML, CSS e JavaScript.<br><br>- 📚 Atualmente estou desenvolvendo projetos pessoais para adicionar ao meu portfólio<br>- 📫 Contate-me mjuliamiosso@gmail.com<br>- ⚡ No meu tempo livre gosto de desenhar, tocar violão e jogar</p>
-</div>
+
+<p align="left">Eu sou Maria Júlia, sou uma desenvolvedora Front End apaixonada por UI/UX e design. Concluí o curso FullStack na Escola de Tecnologia DNC. Tenho habilidades em criar interfaces intuitivas e esteticamente agradáveis, utilizando meu conhecimento em HTML, CSS e JavaScript.<br><br>- 📚 Atualmente estou desenvolvendo projetos pessoais para adicionar ao meu portfólio<br>- 📫 Contate-me mjuliamiosso@gmail.com<br>- ⚡ No meu tempo livre gosto de desenhar, tocar violão e jogar</p>
 
 ###
 
